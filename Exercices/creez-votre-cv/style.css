@@ -1,6 +1,26 @@
-body{
-  width: 100%
+body {
+  margin: 0px;
+  padding: 0px;
+  width: 100%;
 }
-a{
-  
+a {
+}
+#partage {
+  display: flex;
+  flex-direction: row;
+}
+#profil-left {
+  left: 0px;
+  width: 30%;
+  height: 100%;
+  color: aliceblue;
+  background-color: crimson;
+}
+#sub {
+  width: 100%;
+  background-color: chocolate;
+}
+section {
+  top: 20px;
+  width: 70%;
 }
